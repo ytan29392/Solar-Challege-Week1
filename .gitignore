@@ -1,0 +1,7 @@
+# to prevent unnecessary thing to push to github
+venv/
+__pyache__
+*.__pyache__
+data/
+*.csv
+.ipynb_checkpoints/
